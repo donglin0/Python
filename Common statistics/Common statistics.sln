@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Common statistics", "Common statistics.pyproj", "{501F3AEF-CF5D-4A1F-9DAE-7B99D248F81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501F3AEF-CF5D-4A1F-9DAE-7B99D248F81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501F3AEF-CF5D-4A1F-9DAE-7B99D248F81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B221995-9ACF-4083-9A43-6FDA2F8F846A}
+	EndGlobalSection
+EndGlobal
